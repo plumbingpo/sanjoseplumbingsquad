@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sanjoseplumbingsquad.com/sitemap.xml
